@@ -19,8 +19,8 @@ pip install scapy
 ```
 Clone this repository:
 ```bash
-git clone https://github.com/Zeousultra/Packet_sniffer.git
-cd packet-sniffer
+git clone https://github.com/Zeousultra/PRODIGY_CS_05.git
+cd PRODIGY_CS_05
 ```
 
 ## Usage
